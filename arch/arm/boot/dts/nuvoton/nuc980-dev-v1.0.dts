@@ -19,7 +19,6 @@
 	compatible = "nuvoton,nuc980-dev-v1.0", "nuvoton,nuc980";
 
 	chosen {
-//		bootargs = "root=/dev/ram0 console=ttyS0,115200n8 rdinit=/sbin/init mem=64M lpj=744448 ignore_loglevel loglevel=8 printk.time=1";
 		bootargs = "root=/dev/ram0 console=ttyS0,115200n8 rdinit=/sbin/init mem=64M lpj=744448";
 	};
 
