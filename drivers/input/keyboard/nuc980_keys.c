@@ -1,6 +1,6 @@
 /* linux/driver/input/nuc980_keys.c
  *
- * Copyright (c) 2017 Nuvoton technology corporation
+ * Copyright (c) 2026 Nuvoton technology corporation
  * All rights reserved.
  *
  * This program is free software; you can redistribute it and/or modify
